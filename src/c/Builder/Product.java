@@ -34,7 +34,7 @@ class Person {
 
     @Override
     public String toString() {
-        return "Person{" +
+        return "Abstraction{" +
                 "head='" + head + '\'' +
                 ", body='" + body + '\'' +
                 ", foot='" + foot + '\'' +
